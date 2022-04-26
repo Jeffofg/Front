@@ -1,0 +1,7 @@
+{
+  "name": "APP_Social",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
